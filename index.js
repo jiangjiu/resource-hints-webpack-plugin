@@ -125,6 +125,7 @@ function addPreloadType (tag) {
   const ext = path.extname(tag.attributes.href);
   if (preloadDirective[ext]) {
     tag.attributes.as = preloadDirective[ext];
+    tag.attributes.crossorigin = 'anonymous';
   }
   return tag;
 }
