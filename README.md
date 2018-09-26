@@ -1,4 +1,9 @@
-Resource Hints Webpack Plugin
+Resource Hints Webpack Crossorigin Plugin
+========================================
+
+forked from jantimon/resource-hints-webpack-plugin, add crossorigin attrs.
+
+
 ========================================
 [![npm version](https://badge.fury.io/js/resource-hints-webpack-plugin.svg)](http://badge.fury.io/js/resource-hints-webpack-plugin) [![Dependency Status](https://david-dm.org/jantimon/resource-hints-webpack-plugin.svg)](https://david-dm.org/jantimon/resource-hints-webpack-plugin) [![Build status](https://travis-ci.org/jantimon/resource-hints-webpack-plugin.svg)](https://travis-ci.org/jantimon/resource-hints-webpack-plugin) [![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg?style=flat-square)](https://github.com/Flet/semistandard)
 
