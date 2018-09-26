@@ -1,6 +1,6 @@
 {
-  "name": "resource-hints-webpack-plugin",
-  "version": "0.0.2",
+  "name": "resource-hints-webpack-crossorigin-plugin",
+  "version": "0.0.1",
   "description": "Adds automatically Resource hints to your html-files",
   "main": "index.js",
   "files": [
